@@ -1,4 +1,4 @@
-## vagrantによるlaravel環境構築
+## vagrantによるlaravel環境構築 *Sample*
 
 6/16日 講座開催の内容を受けて一部内容を修正しました。
 
