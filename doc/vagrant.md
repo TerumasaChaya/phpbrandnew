@@ -1,7 +1,7 @@
 ## vagrantによるlaravel環境構築
 
 6/16日 講座開催の内容を受けて一部内容を修正しました。
-
+*Changed*
 # homestead 環境について
 
 - Ubuntu 14.04
